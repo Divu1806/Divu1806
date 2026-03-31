@@ -36,7 +36,7 @@
 
 ## 🚀 Projects  
 
-### 🌱 Eco Wave – AI-Based Eco-Cultural Tourism Platform  
+### 🌱 Eco Weave – AI-Based Eco-Cultural Tourism Platform  
 - Built an AI-powered eco-tourism platform with smart recommendations  
 - Trained image classification model on **1200+ images** using **MobileNetV2**  
 - Achieved **85–95% accuracy** using transfer learning  
