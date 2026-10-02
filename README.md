@@ -59,7 +59,17 @@
 - Considered performance, syllabus completion, and time constraints  
 - Implemented **priority-based scheduling**  
 - Generated dynamic daily study plans  
-- Improved productivity and time management  
+- Improved productivity and time management
+
+---
+
+ ### 🛰️ SAR-Based Defence Monitoring System
+
+- Developed an AI-powered system for detecting and classifying defence vehicles from SAR imagery
+- Used YOLO for vehicle detection and deep learning models for vehicle classification
+- Implemented broad-category and specific vehicle identification
+- Generated threat scores based on detected vehicle classes and model confidence
+- Built a Flask-based web application for SAR image analysis and monitoring
 
 ---
 
