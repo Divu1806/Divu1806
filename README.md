@@ -13,7 +13,7 @@
 - 🔭 Currently building **AI-based applications using Python**  
 - 🌱 Learning **Data Analysis & Generative AI**  
 - 🤝 Open to collaborate on **AI / ML / DL projects**  
-- 📫 Email: **divyastd06@gmail.com**  
+- 📫 Email: **divuammulu2006@gmail.com**  
 
 ---
 
